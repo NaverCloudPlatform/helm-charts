@@ -1,1 +1,1 @@
-# helm-charts
+# Naver Cloud Platform Kubernetes Helm Charts
